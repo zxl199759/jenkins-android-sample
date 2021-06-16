@@ -15,5 +15,4 @@ public class ExampleUnitTest {
         Calcuator calcuator=new Calcuator();
         assertEquals(4, calcuator.add(2,2));
     }
-    
 }
